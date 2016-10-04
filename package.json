@@ -19,7 +19,7 @@
     "mocha": "~2.4.5"
   },
   "dependencies": {
-    "express-brute": "^0.6.0",
+    "express-brute": "^1.0.0",
     "moment": "~2.11.2",
     "xtend": "~4.0.1"
   }
