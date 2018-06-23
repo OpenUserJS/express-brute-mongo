@@ -20,7 +20,7 @@
     "mongo-getdb": "~3.0.0"
   },
   "dependencies": {
-    "moment": "~2.13.0",
+    "moment": "~2.22.0",
     "xtend": "~2.1.1"
   }
 }
