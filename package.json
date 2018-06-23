@@ -1,6 +1,6 @@
 {
   "name": "express-brute-mongo",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "MongoDB store for express-brute.",
   "main": "index.js",
   "scripts": {
@@ -14,13 +14,13 @@
   "license": "BSD",
   "devDependencies": {
     "expect.js": "~0.3.1",
-    "mongodb": "~2.1.7",
-    "mongo-getdb": "~2.0.0",
-    "mocha": "~2.4.5"
+    "express": "~4.14.0",
+    "express-brute": "~1.0.1",
+    "mocha": "~3.1.2",
+    "mongo-getdb": "~3.0.0"
   },
   "dependencies": {
-    "express-brute": "^1.0.0",
-    "moment": "~2.11.2",
-    "xtend": "~4.0.1"
+    "moment": "~2.13.0",
+    "xtend": "~2.1.1"
   }
 }
